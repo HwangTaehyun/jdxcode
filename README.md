@@ -4,7 +4,7 @@ I hate how difficult software is to learn—particularly for new engineers. If I
 
 ### Open source work I've done
 
-* [rtx](https://github.com/jdxcode/rtx) - asdf clone built in rust
+* [rtx](https://github.com/jdxcode/rtx) - [asdf](https://github.com/asdf-vm/asdf) clone built in rust
 * [oclif](https://github.com/oclif/oclif) - Node.JS CLI Framework
 * [chim](https://github.com/jdxcode/chim) - a tool for making shims that fetch remote binaries
 
