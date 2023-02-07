@@ -15,7 +15,7 @@ I've worked for [a lot of companies](https://www.linkedin.com/in/jdxcode/). Pret
 * AWS - I make JS development inside of Amazon work well. This means things like making it easy to adopt open source software as well as making sure people are on modern versions of Node.JS.
 * Facebook - I worked on WhatsApp as part of the "Client Dev Infra" team. I was one of the lead engineers on a team that was responsible for making a great environment for engineers to build the WhatsApp clients (web, iOS, Android, Windows, macOS). We also managed the release and CI pipeline for pushing those clients out the door.
 * Dropbox - I was on the team that made the new system tray app for Dropbox. I'm not proud of this one.
-* Heroku - I was the lead engineer for the Heroku CLI. I wasn't the original developer, but I definitely worked more on the Heroku CLI than anyone else. I led the development from the Ruby CLI into a Node.JS CLI and built a CLI framework called @oclif out of that effort.
+* Heroku - I was the lead engineer for the Heroku CLI. I wasn't the original developer, but I definitely worked more on the Heroku CLI than anyone else. I led the development from the Ruby CLI into a Node.JS CLI and built a CLI framework called [oclif](https://github.com/oclif/oclif) out of that effort.
 
 ### Programming Languages I like
 
