@@ -1,4 +1,4 @@
-My name is Jeff. I've been writing software a long time and have spent a good while in the dev tool space. I think a ton about how us developers do our jobs and how we can improve our tools to make better software quicker.
+My name is Jeff. I've been writing software for a long time and have spent a good while in the dev tool space. I think a ton about how us developers do our jobs and how we can improve our tools to make better software quicker.
 
 I hate how difficult software is to learn—particularly for new engineers. If I'm able to do anything in my career well, I hope that it's making things a little easier for the people that are new here.
 
