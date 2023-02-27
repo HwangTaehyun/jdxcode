@@ -29,4 +29,4 @@ I've worked with just about every language and really have enjoyed all of them. 
 
 ### How to reach me
 
-Find me on Twitter and Mastodon.
+Find me on Twitter and Mastodon or post a message to my [public inbox](https://lists.sr.ht/~jdx/public-inbox).
