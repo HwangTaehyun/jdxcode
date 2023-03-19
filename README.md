@@ -9,3 +9,5 @@ I hate how difficult software is to learn—particularly for new engineers. If I
 * [chim](https://github.com/jdxcode/chim) - a tool for making shims that fetch remote binaries
 * [gh](https://github.com/jdxcode/gh) - (not the [official github cli](cli.github.com/)) makes it easy to switch between github projects locally
 * [Heroku CLI](https://github.com/heroku/cli)
+
+<a href="https://github.com/HwangTaehyun/github-contributor-stats">![Jeff's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jdxcode&combine_all_yearly_contributions=true&hide=B,B+&theme=swift)</a>
